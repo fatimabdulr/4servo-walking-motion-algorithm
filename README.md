@@ -12,7 +12,8 @@
 ---
 
 ## فيديو المشروع 
-**فيديو الدائرة**: [Circuit Design 4Servo-Arduino - Tinkercad - .mp4](Circuit%20Design%204Servo-Arduino%20-%20Tinkercad%20-%20.mp4)  
+**فيديو الدائرة**: ![وصف الصورة](4servo-arduino.png)
+
 
 - تم تضمين الفيديو داخل المستودع لتوضيح حركة الدائرة عمليًا.
 
